@@ -24,4 +24,5 @@ Check it out here: [Your Live Site Link](https://your-portfolio-link.com)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-react.git
+   git clone https://github.com/iamro045/Portfolio.git
+
