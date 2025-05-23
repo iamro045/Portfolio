@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d982a5f8.css",
+    "main.js": "/Portfolio/static/js/main.477ea820.js",
+    "static/media/pc.png": "/Portfolio/static/media/pc.1a1a7db8341b1c2bfc04.png",
+    "static/media/Rohit_Resume.pdf": "/Portfolio/static/media/Rohit_Resume.1d2007c8cf8ea79ff3e0.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.d982a5f8.css.map": "/Portfolio/static/css/main.d982a5f8.css.map",
+    "main.477ea820.js.map": "/Portfolio/static/js/main.477ea820.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d982a5f8.css",
+    "static/js/main.477ea820.js"
+  ]
+}
