@@ -5,9 +5,9 @@ import './Projects.css';
 const Projects = () => {
   const projectList = [
     {
-      title: 'EliteMart',
+      title: 'Weather App',
       description: 'A personal portfolio website built with React showcasing my work and skills.',
-      link: 'https://github.com/iamro045/EliteMart',
+      link: 'https://iamro045.github.io/Weather-App/',
     },
     {
       title: 'EliteMart',
