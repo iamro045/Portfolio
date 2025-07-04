@@ -15,26 +15,26 @@ const Projects = () => {
       link: 'https://github.com/iamro045/EliteMart',
     },
     
-    // {
-    //   title: 'EliteMart',
-    //   description: 'A responsive task manager app built with the MERN stack for productivity.',
-    //   link: 'https://github.com/iamro045/EliteMart',
-    // },
+    {
+      title: 'EliteMart',
+      description: 'A responsive task manager app built with the MERN stack for productivity.',
+      link: 'https://github.com/iamro045/EliteMart',
+    },
     {
       title: 'EngageHub',
       description: 'A personal portfolio website built with React showcasing my work and skills.',
       link: 'https://github.com/iamro045/EngageHub',
     },
-    // {
-    //   title: 'EngageHub',
-    //   description: 'An intuitive app that displays real-time weather info using OpenWeather API.',
-    //   link: 'https://github.com/iamro045/EngageHub',
-    // },
-    // {
-    //   title: 'EngageHub',
-    //   description: 'A responsive task manager app built with the MERN stack for productivity.',
-    //   link: 'https://github.com/iamro045/EngageHub',
-    // },
+    {
+      title: 'EngageHub',
+      description: 'An intuitive app that displays real-time weather info using OpenWeather API.',
+      link: 'https://github.com/iamro045/EngageHub',
+    },
+    {
+      title: 'EngageHub',
+      description: 'A responsive task manager app built with the MERN stack for productivity.',
+      link: 'https://github.com/iamro045/EngageHub',
+    },
   ];
 
   return (
