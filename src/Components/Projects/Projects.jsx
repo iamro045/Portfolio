@@ -19,6 +19,21 @@ const Projects = () => {
       description: 'A dynamic social engagement platform for connecting users and sharing content.', // Assuming it's a social platform based on the name
       link: 'https://github.com/iamro045/EngageHub',
     },
+    {
+      title: 'EngageHub Social Platform', // Changed title for clarity
+      description: 'A dynamic social engagement platform for connecting users and sharing content.', // Assuming it's a social platform based on the name
+      link: 'https://github.com/iamro045/EngageHub',
+    },
+    {
+      title: 'EngageHub Social Platform', // Changed title for clarity
+      description: 'A dynamic social engagement platform for connecting users and sharing content.', // Assuming it's a social platform based on the name
+      link: 'https://github.com/iamro045/EngageHub',
+    },
+    {
+      title: 'EngageHub Social Platform', // Changed title for clarity
+      description: 'A dynamic social engagement platform for connecting users and sharing content.', // Assuming it's a social platform based on the name
+      link: 'https://github.com/iamro045/EngageHub',
+    },
     // Add more projects here, ensuring each is unique and accurately described
   ];
 
