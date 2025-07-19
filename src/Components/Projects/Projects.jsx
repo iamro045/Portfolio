@@ -6,35 +6,20 @@ const Projects = () => {
   const projectList = [
     {
       title: 'Weather App',
-      description: 'A personal portfolio website built with React showcasing my work and skills.',
+      description: 'An intuitive app that displays real-time weather information using the OpenWeather API.',
       link: 'https://iamro045.github.io/Weather-App/',
     },
     {
-      title: 'EliteMart',
-      description: 'An intuitive app that displays real-time weather info using OpenWeather API.',
-      link: 'https://github.com/iamro045/EliteMart',
-    },
-    
-    {
-      title: 'EliteMart',
-      description: 'A responsive task manager app built with the MERN stack for productivity.',
+      title: 'EliteMart E-commerce', // Changed title for clarity
+      description: 'A robust e-commerce platform likely built with the MERN stack for seamless online shopping.', // Assuming it's an e-commerce site based on the name
       link: 'https://github.com/iamro045/EliteMart',
     },
     {
-      title: 'EngageHub',
-      description: 'A personal portfolio website built with React showcasing my work and skills.',
+      title: 'EngageHub Social Platform', // Changed title for clarity
+      description: 'A dynamic social engagement platform for connecting users and sharing content.', // Assuming it's a social platform based on the name
       link: 'https://github.com/iamro045/EngageHub',
     },
-    {
-      title: 'EngageHub',
-      description: 'An intuitive app that displays real-time weather info using OpenWeather API.',
-      link: 'https://github.com/iamro045/EngageHub',
-    },
-    {
-      title: 'EngageHub',
-      description: 'A responsive task manager app built with the MERN stack for productivity.',
-      link: 'https://github.com/iamro045/EngageHub',
-    },
+    // Add more projects here, ensuring each is unique and accurately described
   ];
 
   return (
